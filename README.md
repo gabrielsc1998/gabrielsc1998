@@ -12,7 +12,7 @@
     - Javascript, Typescript;
     - Node.js;
     - React and React Native;
-    - Arduino | ESP32;
+    - Arduino | ESP32 | IoT;
 
 ### To know more about me
 
