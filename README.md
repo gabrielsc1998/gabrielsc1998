@@ -9,7 +9,7 @@
   - 💼 [Ageon Electronic Controls](https://www.ageon.com.br/) 
   - 💻 Languages and technologies:
     - C/C++;
-    - Javascript;
+    - Javascript, Typescript;
     - Node.js;
     - React and React Native;
     - Arduino | ESP32;
