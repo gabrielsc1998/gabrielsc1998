@@ -21,6 +21,7 @@
       - MQTT | HTTP | SocketIO | Websocket;
     - Embedded systems (IoT):
       - ESP32 (IDF) | Arduino | PIC | STM32; 
+      - Free RTOS;
 
 ### To know more about me
 
