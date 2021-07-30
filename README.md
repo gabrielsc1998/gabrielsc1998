@@ -6,13 +6,21 @@
   
   - 📍 Biguaçu, SC 🇧🇷
   - :mortar_board: Industrial Electronics from [IFSC](https://www.ifsc.edu.br/)
+    - 📝 [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
   - 💼 [Ageon Electronic Controls](https://www.ageon.com.br/) 
-  - 💻 Languages and technologies:
-    - C/C++;
-    - Javascript, Typescript;
-    - Node.js;
-    - React and React Native;
-    - Arduino | ESP32 | IoT;
+  - 💻 knowledge (always under construction and advancement):
+    - Languages:
+      - C/C++;
+      - Javascript;
+    - Tools and technologies:
+      - React and React Native;
+      - Typescript;
+      - Node.js;
+      - MongoDB;
+    - Communication protocols:
+      - MQTT | HTTP | SocketIO | Websocket;
+    - Embedded systems (IoT):
+      - ESP32 (IDF) | Arduino | PIC | STM32; 
 
 ### To know more about me
 
