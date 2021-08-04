@@ -1,14 +1,10 @@
-### Hi there, I'm Gabriel! 👋
+## Hi there, I'm Gabriel! 👋
 
   Profile to share experiences, studies, projects and evolution! 🚀
 
-### About me
-  
-  - 📍 Biguaçu, SC 🇧🇷
-  - :mortar_board: Industrial Electronics from [IFSC](https://www.ifsc.edu.br/)
-    - 📝 [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
-  - 💼 [Ageon Electronic Controls](https://www.ageon.com.br/) 
-  - 💻 knowledge (always under construction and advancement):
+## About me
+
+- ### 💻 Techs (always under construction and advancement):
     - Languages:
       - C/C++;
       - Javascript;
@@ -23,7 +19,17 @@
       - ESP32 (IDF) | Arduino | PIC | STM32; 
       - Free RTOS;
 
-### To know more about me
+- ### Localization
+  📍 Biguaçu, SC 🇧🇷
+
+- ### Education
+  :mortar_board: Industrial Electronics from [IFSC](https://www.ifsc.edu.br/)
+  > 📝 See my [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
+
+- ### Job
+  💼 Firmware developer at [Ageon Electronic Controls](https://www.ageon.com.br/) 
+  
+- ### To know more about me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-da-silva-caetano-5739b7115/)](https://www.linkedin.com/in/gabriel-da-silva-caetano-5739b7115/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriel_sc.98/)](https://www.instagram.com/gabriel_sc.98/)
