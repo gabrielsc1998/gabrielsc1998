@@ -13,6 +13,7 @@
       - Typescript;
       - Node.js;
       - MongoDB;
+      - Postgres;
     - Communication protocols:
       - MQTT | HTTP | SocketIO | Websocket;
     - Embedded systems (IoT):
@@ -27,7 +28,7 @@
   > 📝 See my [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
 
 - ### Job
-  💼 Firmware developer at [Ageon Electronic Controls](https://www.ageon.com.br/) 
+  💼 Trainee- A fullstack developer at [khomp](https://www.khomp.com/pt/) 
   
 - ### To know more about me
 
