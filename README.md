@@ -21,14 +21,14 @@
       - Free RTOS;
 
 - ### Localization
-  📍 Biguaçu, SC 🇧🇷
+  📍 Florianópolis, SC 🇧🇷
 
 - ### Education
   :mortar_board: Industrial Electronics from [IFSC](https://www.ifsc.edu.br/)
   > 📝 See my [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
 
 - ### Job
-  💼 Trainee- A fullstack developer at [Khomp](https://www.khomp.com/pt/) 
+  💼 Trainee-A fullstack developer at [Khomp](https://www.khomp.com/pt/) 
   
 - ### To know more about me
 
