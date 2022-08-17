@@ -5,17 +5,15 @@
 ## About me
 
 - ### 💻 Techs (always under construction and advancement):
-    - Languages:
-      - C/C++;
-      - Javascript;
+    - Languages: Javascript/Typescript, C/C++;
     - Tools and technologies:
-      - React and React Native;
-      - Typescript;
-      - Node.js;
-      - MongoDB;
-      - Postgres;
+      - Frontend: React, Next;
+      - Backend: Node, Nest;
+      - Mobile: React Native;
+      - Database: MongoDB, Postgres;
+      - Others: Graphql, BDD, TDD, DDD, clean architecture, SOLID, Kafka; 
     - Communication protocols:
-      - MQTT | HTTP | SocketIO | Websocket;
+      - MQTT | HTTP | SocketIO | Websockets;
     - Embedded systems (IoT):
       - ESP32 (IDF) | Arduino | PIC | STM32; 
       - Free RTOS;
@@ -28,7 +26,7 @@
   > 📝 See my [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
 
 - ### Job
-  💼 Trainee-A fullstack developer at [Khomp](https://www.khomp.com/pt/) 
+  💼 Fullstack developer at [Khomp](https://www.khomp.com/pt/) 
   
 - ### To know more about me
 
