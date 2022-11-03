@@ -26,7 +26,7 @@
   > 📝 See my [TCC](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2098/Final.pdf?sequence=1)
 
 - ### Job
-  💼 Fullstack developer at [Khomp](https://www.khomp.com/pt/) 
+  💼 Fullstack developer at [Full Cycle](https://fullcycle.com.br/) 
   
 - ### To know more about me
 
