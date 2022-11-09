@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsc1998&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - ### 💻 Techs (always under construction and advancement):
-    - Languages: Javascript/Typescript, C/C++;
+    - Languages: Javascript/Typescript, Golang, C/C++;
     - Tools and technologies:
       - Frontend: React, Next;
       - Backend: Node, Nest;
