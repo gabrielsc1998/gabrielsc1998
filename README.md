@@ -16,7 +16,7 @@
       - Backend: Node, Nest, Django;
       - Mobile: React Native;
       - Database: MongoDB, Postgres, MySQL, SQLite;
-      - Others: Graphql, BDD, TDD, DDD, Clean Architecture, SOLID, Kafka; 
+      - Others: Docker, Kubernetes, Graphql, BDD, TDD, DDD, Clean Architecture, SOLID, Kafka; 
     - Communication protocols:
       - MQTT | HTTP | SocketIO | Websockets;
     - Embedded systems (IoT):
