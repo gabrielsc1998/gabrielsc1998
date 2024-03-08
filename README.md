@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsc1998" alt="gabrielsc1998" /> </p>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsc1998&show_icons=true&count_private=true&theme=radical)](https://github.com/gabrielsc1998)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsc1998&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsc1998&show_icons=true&count_private=true&theme=dark)](https://github.com/gabrielsc1998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsc1998&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - ### 💻 Techs (always under construction and advancement):
     - Languages: Javascript/Typescript, Golang, Python, C/C++;
